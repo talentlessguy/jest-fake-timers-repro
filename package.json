@@ -2,9 +2,8 @@
   "name": "jest-fake-timers-esm-repro",
   "main": "index.js",
   "scripts": {
-    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+    "test": "jest"
   },
-  "type": "module",
   "homepage": "https://github.com/talentlessguy/jest-fake-timers-esm-repro#readme",
   "devDependencies": {
     "@jest/globals": "^26.6.2",

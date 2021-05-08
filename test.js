@@ -1,5 +1,3 @@
-import { describe, expect, it, jest } from '@jest/globals'
-
 // Let's say you have a function that does some async operation inside setTimeout (think of polling for data)
 
 let  runInterval = (callback, interval = 1000) => {
